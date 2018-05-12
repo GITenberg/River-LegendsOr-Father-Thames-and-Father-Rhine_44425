@@ -1,0 +1,47 @@
+_repo: River-LegendsOr-Father-Thames-and-Father-Rhine_44425
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dorè, Gustave
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: archival
+  image_path: 44425-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brabourne, Edward Hugessen Knatchbull-Hugessen, Baron
+    aliases:
+    - Hugessen, E. H. Knatchbull (Edward Hugessen Knatchbull)
+    - Knatchbull-Hugessen, Edward Hugessen, Baron Brabourne
+    birthdate: 1829
+    deathdate: 1893
+    gutenberg_agent_id: '42748'
+    url: http://www.gutenberg.org/2009/agents/42748
+description: ''
+gutenberg_issued: '2013-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44425'
+  lccn: '02016207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Juvenile literature'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: 'River legends -- The great boar of Windsor Forest -- Martha''s vengeance
+  -- The family feud -- The giant bramble-buffer -- The mannikins'' castle -- Sir
+  Roderick Fowle: a legend of the olden time.'
+title: River Legends; Or, Father Thames and Father Rhine
+url: http://www.gutenberg.org/ebooks/44425
